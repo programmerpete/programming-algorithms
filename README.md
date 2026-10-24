@@ -1,4 +1,6 @@
-# Combinatorial optimisation algorithms
+# programming-algorithms
+
+useful algorithms for software solutions
 
 Reference implementations of the classical algorithms for three of the most
 studied problems in combinatorial optimisation: the **travelling salesman
